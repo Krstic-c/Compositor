@@ -74,7 +74,7 @@ final class CompositorApplicationDelegate: NSObject, NSApplicationDelegate {
             guard let menu = note.object as? NSMenu, let index = note.userInfo?["NSMenuItemIndex"] as? Int else { return }
             MainActor.assumeIsolated { Self.removeIfSystemExtra(at: index, in: menu) }
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + 1) { [updater] in updater.startUpdater() }
+        // zh-hans fork: the updater is never started, so the official English build can't replace this one.
     }
 
     /// Black over everything but the window's inside in Canvas Only: the screen around it, its rounded corners and the
