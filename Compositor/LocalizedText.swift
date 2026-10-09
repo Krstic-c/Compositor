@@ -17,6 +17,6 @@ extension View {
 }
 
 /// A translated string for AppKit (menus, alerts, panels), which has no `LocalizedStringKey`.
-func tr(_ key: String.LocalizationValue) -> String {
-    String(localized: key)
+func tr(_ key: String) -> String {
+    String(localized: String.LocalizationValue(key))
 }

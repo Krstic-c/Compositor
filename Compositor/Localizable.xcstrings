@@ -133,6 +133,17 @@
         }
       }
     },
+    "(Multiple)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "（多种）"
+          }
+        }
+      }
+    },
     "1 more tab": {
       "extractionState": "manual",
       "localizations": {
@@ -723,6 +734,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "烘焙并删除"
+          }
+        }
+      }
+    },
+    "Bake keeps the current masked appearance in the dependent layers’ pixels. Remove Links reveals their pixels. You can undo either choice.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“烘焙”会把当前被蒙版后的外观保留在相关图层的像素中；“移除链接”则会显示其原有像素。两种选择都可以还原。"
           }
         }
       }
@@ -9175,6 +9197,17 @@
         }
       }
     },
+    "Save changes to %@?": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "要存储对“%@”所做的更改吗？"
+          }
+        }
+      }
+    },
     "Scale": {
       "extractionState": "manual",
       "localizations": {
@@ -11800,6 +11833,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "·"
+          }
+        }
+      }
+    },
+    "“%@” was changed on disk.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”已在磁盘上被更改。"
           }
         }
       }
