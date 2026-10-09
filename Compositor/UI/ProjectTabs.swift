@@ -338,7 +338,7 @@ private struct ProjectTabButton: View {
                     if tab.session.isModified {
                         Circle().frame(width: 5, height: 5).accessibilityLabel("Unsaved changes")
                     }
-                    Text(tab.title).font(.system(size: 12, weight: active ? .semibold : .medium)).lineLimit(1)
+                    Text(verbatim: tab.title).font(.system(size: 12, weight: active ? .semibold : .medium)).lineLimit(1)
                 }
                 .frame(width: projectTabLabelWidth(tab, active: active), alignment: .leading)
                 .padding(.leading, 11).padding(.trailing, 8)
