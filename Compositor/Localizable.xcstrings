@@ -1,6 +1,29 @@
 {
   "sourceLanguage": "en",
   "strings": {
+    "": {},
+    " · [ ] size · Shift-[ ] hardness · 1–0 opacity · Escape cancel · Space to pan": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · [ ] 调整大小 · Shift-[ ] 调整硬度 · 1–0 不透明度 · Esc 取消 · 空格键平移"
+          }
+        }
+      }
+    },
+    " · [ ] size · Shift-[ ] hardness · 1–0 strength · Space to pan": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · [ ] 调整大小 · Shift-[ ] 调整硬度 · 1–0 强度 · 空格键平移"
+          }
+        }
+      }
+    },
     "#": {
       "extractionState": "manual",
       "localizations": {
@@ -173,6 +196,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "3 × 3 平均"
+          }
+        }
+      }
+    },
+    "45°": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "45°"
           }
         }
       }
@@ -1508,6 +1542,28 @@
         }
       }
     },
+    "Click an object to select its outline · Tab for Wand · Shift add · Option subtract · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点按对象以选择其轮廓 · Tab 切换为魔棒 · Shift 添加 · Option 减去 · 在内部拖动可移动 · ⌘ 拖动可移动像素 · Delete 清除 · ⌘D 取消选择"
+          }
+        }
+      }
+    },
+    "Click corners · Click start, double-click or Enter to close · Delete removes corner · Escape cancel": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点按拐点 · 点按起点、双击或回车以闭合 · Delete 删除拐点 · Esc 取消"
+          }
+        }
+      }
+    },
     "Click the canvas to sample": {
       "extractionState": "manual",
       "localizations": {
@@ -1651,6 +1707,17 @@
         }
       }
     },
+    "Click to select similar colors · Tab for Object · Shift add · Option subtract · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点按以选择相似颜色 · Tab 切换为对象 · Shift 添加 · Option 减去 · 在内部拖动可移动 · ⌘ 拖动可移动像素 · Delete 清除 · ⌘D 取消选择"
+          }
+        }
+      }
+    },
     "Click to zoom in · Option-click to zoom out · Drag right or left to zoom smoothly · Space to pan": {
       "extractionState": "manual",
       "localizations": {
@@ -1658,6 +1725,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "点按放大 · 按住 Option 键点按缩小 · 向右或向左拖动可平滑缩放 · 空格键平移"
+          }
+        }
+      }
+    },
+    "Clipped to %@": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "剪贴到“%@”"
+          }
+        }
+      }
+    },
+    "Clipping mask based on %@. Option-click the bottom of its row to release.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "基于“%@”的剪贴蒙版。按住 Option 键点按该行底部可释放。"
           }
         }
       }
@@ -3114,6 +3203,17 @@
         }
       }
     },
+    "Drag a rectangle · Shift add · Option subtract · Shift again mid-drag square · Drag inside to move · ⌘-drag moves pixels · Delete clears · ⌘D deselect": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拖动绘制矩形 · Shift 添加 · Option 减去 · 拖动中途再按 Shift 为正方形 · 在内部拖动可移动 · ⌘ 拖动可移动像素 · Delete 清除 · ⌘D 取消选择"
+          }
+        }
+      }
+    },
     "Drag a text box · Click text to edit · Drag box handles to resize · ⌘Return finish · Escape cancel": {
       "extractionState": "manual",
       "localizations": {
@@ -3180,6 +3280,17 @@
         }
       }
     },
+    "Drag over blemishes to heal · [ ] size · Shift-[ ] hardness · Escape cancel · Space to pan": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "在瑕疵上拖动以修复 · [ ] 调整大小 · Shift-[ ] 调整硬度 · Esc 取消 · 空格键平移"
+          }
+        }
+      }
+    },
     "Drag to crop · Enter apply · Escape cancel · Space to pan": {
       "extractionState": "manual",
       "localizations": {
@@ -3187,6 +3298,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖动以裁剪 · 回车应用 · Esc 取消 · 空格键平移"
+          }
+        }
+      }
+    },
+    "Drag to draw a shape on a new layer · Shift %@ · Option from center · Shift-U or Tab for the next shape · Escape cancel · Space to pan": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拖动以在新图层上绘制形状 · Shift 约束为%@ · Option 从中心绘制 · Shift-U 或 Tab 切换下一种形状 · Esc 取消 · 空格键平移"
           }
         }
       }
@@ -3264,6 +3386,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "拖动以调整面板大小"
+          }
+        }
+      }
+    },
+    "Drag to select · Drag inside to move · Shift add · Option subtract · Delete clears · ⌥⌫/⌘⌫ fill · ⌘D deselect": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拖动以选择 · 在内部拖动可移动 · Shift 添加 · Option 减去 · Delete 清除 · ⌥⌫/⌘⌫ 填充 · ⌘D 取消选择"
           }
         }
       }
@@ -7085,6 +7218,94 @@
         }
       }
     },
+    "Move selected pixels Down 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向下移动 1 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Down 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向下移动 10 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Left 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向左移动 1 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Left 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向左移动 10 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Right 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向右移动 1 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Right 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向右移动 10 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Up 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向上移动 1 像素"
+          }
+        }
+      }
+    },
+    "Move selected pixels Up 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "将所选像素向上移动 10 像素"
+          }
+        }
+      }
+    },
     "Moves the picture left or right.": {
       "extractionState": "manual",
       "localizations": {
@@ -7448,6 +7669,94 @@
         }
       }
     },
+    "Nudge Down 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向下微移 1 像素"
+          }
+        }
+      }
+    },
+    "Nudge Down 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向下微移 10 像素"
+          }
+        }
+      }
+    },
+    "Nudge Left 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向左微移 1 像素"
+          }
+        }
+      }
+    },
+    "Nudge Left 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向左微移 10 像素"
+          }
+        }
+      }
+    },
+    "Nudge Right 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向右微移 1 像素"
+          }
+        }
+      }
+    },
+    "Nudge Right 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向右微移 10 像素"
+          }
+        }
+      }
+    },
+    "Nudge Up 1 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向上微移 1 像素"
+          }
+        }
+      }
+    },
+    "Nudge Up 10 px": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "向上微移 10 像素"
+          }
+        }
+      }
+    },
     "OK": {
       "extractionState": "manual",
       "localizations": {
@@ -7569,6 +7878,116 @@
         }
       }
     },
+    "Opacity digit 0 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 0（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 1 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 1（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 2 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 2（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 3 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 3（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 4 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 4（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 5 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 5（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 6 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 6（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 7 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 7（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 8 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 8（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
+    "Opacity digit 9 (type two for exact %)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不透明度数字 9（连按两个数字可输入精确百分比）"
+          }
+        }
+      }
+    },
     "Opacity percent": {
       "extractionState": "manual",
       "localizations": {
@@ -7675,6 +8094,17 @@
           "stringUnit": {
             "state": "translated",
             "value": "按住 Option 键点按以设置取样源"
+          }
+        }
+      }
+    },
+    "Option-click to set the source · Drag to clone · [ ] size · Shift-[ ] hardness · 1–0 opacity · Space to pan": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "按住 Option 键点按以设置取样源 · 拖动以仿制 · [ ] 调整大小 · Shift-[ ] 调整硬度 · 1–0 不透明度 · 空格键平移"
           }
         }
       }
@@ -9362,6 +9792,17 @@
         }
       }
     },
+    "Select layer mask; Option-click to view it alone; Shift-click to enable/disable; Cmd-click to select its black areas (Cmd-Shift adds, Cmd-Option subtracts)": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "选择图层蒙版；按住 Option 键点按可单独查看；按住 Shift 键点按可启用/停用；按住 Cmd 键点按可选择其黑色区域（Cmd-Shift 添加，Cmd-Option 减去）"
+          }
+        }
+      }
+    },
     "Select layer; Cmd-click to select its pixels (Cmd-Shift adds, Cmd-Option subtracts)": {
       "extractionState": "manual",
       "localizations": {
@@ -10546,6 +10987,28 @@
           "stringUnit": {
             "state": "translated",
             "value": "该选区过于复杂，无法勾勒轮廓。请尝试不同的容差，或开启“连续”。"
+          }
+        }
+      }
+    },
+    "That shape is too large. A shape can cover up to %lld megapixels.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "该形状过大。形状最大可覆盖 %lld 百万像素。"
+          }
+        }
+      }
+    },
+    "That text box exceeds the %@-pixel or %lld-megapixel limit.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "该文本框超出 %@ 像素或 %lld 百万像素的限制。"
           }
         }
       }
@@ -11771,6 +12234,17 @@
         }
       }
     },
+    "circle": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "圆形"
+          }
+        }
+      }
+    },
     "iPhone 18 Pro": {
       "extractionState": "manual",
       "localizations": {
@@ -11826,6 +12300,17 @@
         }
       }
     },
+    "square": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正方形"
+          }
+        }
+      }
+    },
     "·": {
       "extractionState": "manual",
       "localizations": {
@@ -11833,6 +12318,39 @@
           "stringUnit": {
             "state": "translated",
             "value": "·"
+          }
+        }
+      }
+    },
+    "“%@” is a folder, which has no pixels of its own. Paint on a layer inside it, or on the folder’s mask.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”是文件夹，本身没有像素。请在其内部的图层或文件夹的蒙版上绘画。"
+          }
+        }
+      }
+    },
+    "“%@” is an adjustment layer, with no pixels to paint. Paint on its mask instead.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”是调整图层，没有可绘画的像素。请改在其蒙版上绘画。"
+          }
+        }
+      }
+    },
+    "“%@” is hidden, or inside a hidden folder. Show it to paint on it.": {
+      "extractionState": "manual",
+      "localizations": {
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "“%@”已隐藏，或位于已隐藏的文件夹中。请先将其显示再绘画。"
           }
         }
       }
